@@ -29,8 +29,8 @@ import java.io.PrintWriter;
  * para o critério de fluxo de controle
  * 5) preencher o valor do argumento passado pra o método pegaElemReq() presente no 
  * metodo lerArquivo com o valor do criterio que esta sendo testado
- *                    jhjk                 									   *
- *                                                                         *
+ *                        									   *
+ *    teste pro github                                                                     *
  ***************************************************************************/
 public class ValiMPI {
 
