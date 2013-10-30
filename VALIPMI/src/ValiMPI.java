@@ -17,7 +17,7 @@ import java.io.OutputStream;
 import java.io.PrintWriter;
 /***************************************************************************
  * coisa importante para usar o códio:
- * 1) chamar o método lerstring
+ * 1) chamar o método lerstring  
  * 2) modificar o tamanho do vetor matriz tem que ter [i] [j], onde
  *  i = nº total de elementos requeridos do critério e j = nº da quantidade
  *  de dados de teste presente no arquivo que contém os dados de teste                                                                    *
@@ -29,7 +29,7 @@ import java.io.PrintWriter;
  * para o critério de fluxo de controle
  * 5) preencher o valor do argumento passado pra o método pegaElemReq() presente no 
  * metodo lerArquivo com o valor do criterio que esta sendo testado
- *                                     									   *
+ *                    jhjk                 									   *
  *                                                                         *
  ***************************************************************************/
 public class ValiMPI {
