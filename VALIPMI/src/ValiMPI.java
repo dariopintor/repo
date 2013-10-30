@@ -30,7 +30,7 @@ import java.io.PrintWriter;
  * 5) preencher o valor do argumento passado pra o método pegaElemReq() presente no 
  * metodo lerArquivo com o valor do criterio que esta sendo testado
  *                        									   *
- *    teste pro github                                                                     *
+ *    mais um teste pro github                                                                     *
  ***************************************************************************/
 public class ValiMPI {
 
